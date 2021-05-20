@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809165445614",
+    "project_id": "cognizant-48a6b",
+    "storage_bucket": "cognizant-48a6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809165445614:android:f8397f1a88df609dd896ff",
+        "android_client_info": {
+          "package_name": "com.example.cognizant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809165445614-c28lpevm61c3tcsv18sv32lfr5nbrl46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYoDsNueOF0oYunF0dNbgLRkMQURYNbxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809165445614-c28lpevm61c3tcsv18sv32lfr5nbrl46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+com/example/cognizant/Screens/LoginActivity.java
+ com.example.cognizant.Screens.LoginActivity
+ com.example.cognizant.Screens.LoginActivity$1
+com/example/cognizant/Screens/ListViewActivity.java
+ com.example.cognizant.Screens.ListViewActivity
+com/example/cognizant/BuildConfig.java
+ com.example.cognizant.BuildConfig
